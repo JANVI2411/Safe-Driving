@@ -1,14 +1,19 @@
 # Driver Drowsiness detection:
 
-## Technology stack: Opencv, Matplotlib and PIL for image processing/visualization, Django for API creation
+## Technology stack: 
+### 1) Opencv, Matplotlib
+### 2) PIL for image processing/visualization, 
+### 3) Django for API creation
+
+# Demo output videos:
 
 ### 1) Input video link: https://drive.google.com/file/d/1VYXbqz56h73kCGVWnIVd2EfR179W5FM7/view?usp=sharing
-### output video:
+### Output video:
 
 ![video](video_2.gif)
 
 ### 2) Input video link: https://drive.google.com/file/d/1S3xf0qA3Aj7xUg5UptqSo3nsRdI9q-z5/view?usp=sharing
-### output video:
+### Output video:
 
 ![video](video_1.gif)
 

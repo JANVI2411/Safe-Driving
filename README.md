@@ -1,4 +1,6 @@
-# Safe-Driving
+# Driver Drowsiness detection:
+
+## Technology stack: Opencv, Matplotlib and PIL for image processing/visualization, Django for API creation
 
 ### 1) Input video link: https://drive.google.com/file/d/1VYXbqz56h73kCGVWnIVd2EfR179W5FM7/view?usp=sharing
 ### output video:

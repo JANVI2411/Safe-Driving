@@ -5,7 +5,11 @@
 ##### 2) PIL for image processing/visualization, 
 ##### 3) Django for API creation
 
+# 1) APP:
+
 ![API demo](sleep-detection-api.gif)
+
+# 2) Live webcam demo:
 
 ![webcam demo](live-webcam-demo.gif)
 

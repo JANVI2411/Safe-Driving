@@ -5,6 +5,8 @@
 ### 2) PIL for image processing/visualization, 
 ### 3) Django for API creation
 
+![API demo]()
+
 # Demo output videos:
 
 ### 1) Input video link: https://drive.google.com/file/d/1VYXbqz56h73kCGVWnIVd2EfR179W5FM7/view?usp=sharing
